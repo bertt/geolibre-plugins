@@ -1,14 +1,14 @@
 {
   "id": "geolibre-mapterhorn",
   "name": "Mapterhorn Terrain",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Switch GeoLibre 3D terrain between Re:Earth, AWS Terrarium and Mapterhorn (editable tile URLs).",
   "author": "bertt",
   "homepage": "https://github.com/bertt/geolibre-mapterhorn-plugin",
   "manifestUrl": "plugins/geolibre-mapterhorn/plugin.json",
   "source": {
-    "url": "https://github.com/bertt/geolibre-mapterhorn-plugin/releases/download/v0.2.1/geolibre-mapterhorn-0.2.1.zip",
-    "sha256": "354168b73fe0849b7824f54da92f6f1ede3c00fefa295d985b0f3f070b89baf9"
+    "url": "https://github.com/bertt/geolibre-mapterhorn-plugin/releases/download/v0.2.2/geolibre-mapterhorn-0.2.2.zip",
+    "sha256": "2bcf48634cf5832474008345064e221a297f6d566207ae3411e86dff31d8ff86"
   },
   "categories": ["Terrain", "Basemaps"],
   "minGeoLibreVersion": "0.9.0"
